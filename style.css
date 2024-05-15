@@ -184,6 +184,16 @@ span {
     font-size: 30px;
     margin-top: 8px;
     margin-left: 5px;
+    color: white;
+}
+
+.nav-cart a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-cart a:visited {
+    color: white;
 }
 
 .nav-cart {
